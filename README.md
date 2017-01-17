@@ -19,7 +19,7 @@ $ slack-upload --help
     -c, --channel [value]  channel name
     -t, --title [value]    title of post
     -m, --comment [value]  inital comment
-    -v, --verbose          show detail resul
+    -v, --verbose          show detail result
 
 ## Slack API token
 

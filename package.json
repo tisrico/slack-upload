@@ -1,6 +1,6 @@
 {
   "name": "slack-upload",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "bin": { "slack-upload" : "bin/slack-upload.js" },
