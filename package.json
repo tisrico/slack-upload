@@ -1,13 +1,13 @@
 {
   "name": "slack-upload",
-  "version": "1.0.5",
-  "description": "",
+  "version": "1.0.6",
+  "description": "Easy to upload files to Slack channels through this command line utility.",
   "main": "index.js",
   "bin": { "slack-upload" : "bin/slack-upload.js" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "tisrico",
   "license": "ISC",
   "dependencies": {
     "commander": "^2.9.0",
